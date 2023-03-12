@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FsFaris
-- 👀 I’m interested in js
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Faris Salihagic
+- 👀 I’m interested in learning JavaScript
+- 🌱 I’m currently learning JavaScript and I hope that I will learn it before next year(2024).
+- 💞️ Looking for job as a Junior web developer.
+- 📫 How to reach me ... sale_faris@hotmail.com
 
 <!---
 FsFaris/FsFaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
